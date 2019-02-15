@@ -10,6 +10,10 @@ title: About
 	<h1>주요 경력</h1>
 	<ul>
 	  <li><a href="https://www.nps.edu/">미국 해군대학원 졸업 Computer Science(MA)</a></li>
+		<ul>
+			<li> Topic : <a href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a473704.pdf">Misuse Case Driven Development of Secure Information Sharing for Coalition Environment</a>
+			
+		</ul>
 	  <li><a href="https://ime.korea.ac.kr/">고려대학교 정보보호대학원 졸업(PhD)</a></li>
 		<ul>
 			<li> Topic : 의료 정보 공유 환경에서 환자 익명성 보존 프레임워크에 대한 연구
