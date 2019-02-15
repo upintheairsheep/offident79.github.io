@@ -15,12 +15,14 @@ title: About
 		</ul>
 	  <li><a href="https://ime.korea.ac.kr/">고려대학교 정보보호대학원 졸업(PhD)</a></li>
 		<ul>
+		    <li> <a href="https://scholar.google.co.kr/citations?user=04NmiF8AAAAJ&hl=ko">Papers</a></li>
 			<li> Topic : 의료 정보 공유 환경에서 환자 익명성 보존 프레임워크에 대한 연구 </li>
 		</ul>
       <li>육군사관학교, 공군사관학교 전산학 강사('12~15, 17~18년)</li>
       <li>고려대학교 보안공학 강사('18년)</li>
       <li><a href="https://www.nanobrick.co.kr/">(주)나노브릭</a> 사업기획실장</li>
     </ul>
+	
 	<h1>Interests</h1>
 	<ul>
 	  <li>보안 비지니스 프로토콜</li>
@@ -29,6 +31,7 @@ title: About
       <li>IT 융합</li>
       <li>자유로운 여행</li>
     </ul>
+	<br>
 	<br>
 	이 블로그는 나머지 삶의 절반을 기록하는 곳입니다. 
 	<br>
