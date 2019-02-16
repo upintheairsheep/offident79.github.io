@@ -9,7 +9,7 @@ comments: true
 
 <center>
 <figure>
-<img src="/assets/post-img/Life/20190216_01.jpg" alt="">
+<img src="../../assets/post-img/Life/20190216_01.jpg" alt="">
 <figcaption>겨울산행과 불곡산 정상</figcaption>
 </figure>
 </center>
